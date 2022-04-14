@@ -13,10 +13,6 @@ Recommend new top 10 relevant articles to a user when he visits the app at the s
 
 The code project will try out below methods for feeding personalised news recommendation to users on the online news platform
 
-Popularity method
-Collobartive Filtering
-Content Based Filtering
-ALS
-Hybrid systems
+Popularity method,Collobartive Filtering,Content Based Filtering, ALS, and Hybrid systems
 
-** TBC
+
